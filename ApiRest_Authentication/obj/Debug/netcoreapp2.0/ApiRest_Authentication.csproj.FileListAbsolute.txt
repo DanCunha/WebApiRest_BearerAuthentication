@@ -1,0 +1,11 @@
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\bin\Debug\netcoreapp2.0\ApiRest_Authentication.deps.json
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\bin\Debug\netcoreapp2.0\ApiRest_Authentication.runtimeconfig.json
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\bin\Debug\netcoreapp2.0\ApiRest_Authentication.runtimeconfig.dev.json
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\bin\Debug\netcoreapp2.0\ApiRest_Authentication.dll
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\obj\Debug\netcoreapp2.0\ApiRest_Authentication.csprojAssemblyReference.cache
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\obj\Debug\netcoreapp2.0\ApiRest_Authentication.csproj.CoreCompileInputs.cache
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\obj\Debug\netcoreapp2.0\ApiRest_Authentication.AssemblyInfoInputs.cache
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\obj\Debug\netcoreapp2.0\ApiRest_Authentication.AssemblyInfo.cs
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\bin\Debug\netcoreapp2.0\ApiRest_Authentication.pdb
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\obj\Debug\netcoreapp2.0\ApiRest_Authentication.dll
+C:\Projetos\AspNet\ApiRest_Authentication\ApiRest_Authentication\obj\Debug\netcoreapp2.0\ApiRest_Authentication.pdb
